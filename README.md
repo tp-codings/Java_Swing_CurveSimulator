@@ -1,4 +1,5 @@
 # Curve simulator with Java swing
+This is a program that simulates and visualizes various types of curves. The user can create, remove, or move points. Additionally, the Casteljau algorithm for creating the Bézier curve can be interactively visualized.
 
 ## Features
 - Free addition and removal of control points
