@@ -41,9 +41,12 @@ This is a program that simulates and visualizes various types of curves. The use
 - UI self-explanatory
 
 ## Examples
-![Kurven](https://github.com/tp-codings/Java_Swing_CurveSimulator/assets/118997294/b6fa6508-2424-4a61-a690-acba2bc4c187)
-![Bezier](https://github.com/tp-codings/Java_Swing_CurveSimulator/assets/118997294/d948f911-90b2-47ac-be12-44c909919e93)
-![Bezier2](https://github.com/tp-codings/Java_Swing_CurveSimulator/assets/118997294/af05198b-174e-4786-83bf-d579e3f04cf4)
+<img src="https://github.com/tp-codings/Java_Swing_CurveSimulator/assets/118997294/b6fa6508-2424-4a61-a690-acba2bc4c187" alt="Kurven" width="200" height="200">
+
+<img src="https://github.com/tp-codings/Java_Swing_CurveSimulator/assets/118997294/d948f911-90b2-47ac-be12-44c909919e93" alt="Bezier" width="200" height="200">
+
+<img src="https://github.com/tp-codings/Java_Swing_CurveSimulator/assets/118997294/af05198b-174e-4786-83bf-d579e3f04cf4" alt="Bezier2" width="200" height="200">
+
 
 # Contact Information
 
